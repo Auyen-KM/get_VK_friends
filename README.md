@@ -6,11 +6,12 @@ Console program to get VK friends of user and saves in csv, tsv or json file.</b
 Программа использует одну стороннию библиотеку requests и <a href="https://dev.vk.com/method">методы API Вконтакте</a>.
 
     pip install -r requirements.txt
-или
+или</br>
+
     pip install requests
 
 Для работы программы необходим токен доступа. Инструкция для получения <a href="https://dev.vk.com/api/access-token/implicit-flow-user">токена</a>.</br>
-Токен доступа поместить в файл access_toket.txt
+Токен доступа поместить в файл access_token.txt
 
 ## Входные данные в программу:</br>
 1. Авторизационный токен;</br>
